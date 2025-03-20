@@ -10,4 +10,5 @@ Homepage:
    1.1 Ice king will spawn in Ice Kingdom.
    1.2 Finn will spawn in Treehouse.
    1.3 Jack will spawn in Treehouse.
-   1.4 Princess Bubblegum will spawn in Treehouse.
+   1.4 Princess Bubblegum will spawn in Bubble Palace.
+   1.5 Marceline will spawn in the cave.
