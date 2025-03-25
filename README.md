@@ -1,4 +1,6 @@
-WELCOME TO OUR GAME!
+ADVENTURE TIME!!
+
+Welcome to our game. Adventure
 
 Start of our game:
 1. You can select your character.
