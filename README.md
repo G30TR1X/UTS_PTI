@@ -13,4 +13,7 @@ Homepage:
    1.2 Finn will spawn in Treehouse.
    1.3 Jack will spawn in Treehouse.
    1.4 Princess Bubblegum will spawn in Bubble Palace.
-   1.5 Marceline will spawn in the cave.
+   1.5 Marceline will spawn in the Cave.
+   1.6 There are no character that will spawn Fire Empire.
+
+2. The game will start with a quest 
