@@ -1,6 +1,6 @@
-ADVENTURE TIME!!
+ADVENTURE TIME: QUEST OF !!
 
-Welcome to our game. Adventure
+Welcome to our game! Adeventure Time: Quest of is a 2d pixel based adventure game where player can start their own adventure and quest such as fighting monster, hanging out with friends, or playing in the treehouse. Your mission is to obtain the magic crystal and restore peace to the land.
 
 Start of our game:
 1. You can select your character.
