@@ -11,20 +11,24 @@ Welcome to our game! Adeventure Time: Journey of Heroes is a 2d pixel based adve
 Start of our game:
 1. You can select your character.
 2. Insert your name.
+
    2.1 If you don't insert your name or only blank space, then there will be an alert.
 
 Homepage:
 You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
 
 1. According to the character that you pick, you will spawn in a different starting place. All places have it's own uniqueness.
+   
    1.1 Ice king will spawn in Ice Kingdom.
+   
    1.2 Finn will spawn in Treehouse.
+   
    1.3 Jack will spawn in Treehouse.
    1.4 Princess Bubblegum will spawn in Bubble Palace.
    1.5 Marceline will spawn in the Bat Cave.
    1.6 There are no character that will spawn Fire Empire. You can visit it when your stats meet specific criteria
 
-2. There are some stats that is corrrelated in this game. All stats start with 50% at the starts. It will decrease slowly as the time in the game goes by. Don't let this stats become zero as you will face some consequences.
+3. There are some stats that is corrrelated in this game. All stats start with 50% at the starts. It will decrease slowly as the time in the game goes by. Don't let this stats become zero as you will face some consequences.
    2.1 Intelligence
    2.2 Experience
    2.3 Happiness
@@ -32,10 +36,10 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
    2.5 Energy
    There's money also in the game and it plays an important roles. If you are dead before defeating the demon king, you can revive your character using money. So spend it wisely.
    
-3. The game will start with the explanation of the quest. The Demon King has created chaos all around the OOO. You are chosen as the hero to defeat it. To defeat it you need to obtain the magic crystal and to do that you have to do several quest and task. Your first task will be meeting the wiseman in the Fire Empire.
+4. The game will start with the explanation of the quest. The Demon King has created chaos all around the OOO. You are chosen as the hero to defeat it. To defeat it you need to obtain the magic crystal and to do that you have to do several quest and task. Your first task will be meeting the wiseman in the Fire Empire.
    3.1 Beware that if these conditions aren't met there will be consequences.
    
-4. There is some rules that the player needs to know. There are several different action in each place that you can do in this game and it will affect your stats accordingly.
+5. There is some rules that the player needs to know. There are several different action in each place that you can do in this game and it will affect your stats accordingly.
    4.1 Treehouse:
          - Gardening (+5% Happiness, -5% energy)
          - Rest (+10% energy, -10% Hunger)
