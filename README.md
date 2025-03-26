@@ -14,7 +14,9 @@ Start of our game:
    2.1 If you don't insert your name or only blank space, then there will be an alert.
 
 Homepage:
-1. According to the character that you pick, you will spawn in a different starting place. All places have it's own uniqueness. You can visit them later in the game.
+You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
+
+1. According to the character that you pick, you will spawn in a different starting place. All places have it's own uniqueness.
    1.1 Ice king will spawn in Ice Kingdom.
    1.2 Finn will spawn in Treehouse.
    1.3 Jack will spawn in Treehouse.
@@ -30,7 +32,7 @@ Homepage:
    2.5 Energy
    There's money also in the game and it plays an important roles. If you are dead before defeating the demon king, you can revive your character using money. So spend it wisely.
    
-3. The game will start with the explanation of the quest. The Demon King has created chaos all around the OOO. You are chosen as the hero to defeat it. To defeat it you need to obtain the magic crystal and to do that you have to do several quest and task. To defeat the demon king, you need to have: 100% Hunger, 100% Energy, 70% or more Intelligence, 80% Intelligence, 60% Happiness, magic orb.
+3. The game will start with the explanation of the quest. The Demon King has created chaos all around the OOO. You are chosen as the hero to defeat it. To defeat it you need to obtain the magic crystal and to do that you have to do several quest and task. Your first task will be meeting the wiseman in the Fire Empire.
    3.1 Beware that if these conditions aren't met there will be consequences.
    
 4. There is some rules that the player needs to know. There are several different action in each place that you can do in this game and it will affect your stats accordingly.
@@ -38,6 +40,9 @@ Homepage:
          - Gardening (+5% Happiness, -5% energy)
          - Rest (+10% energy, -10% Hunger)
          - Reading book (+5% Intelligence, -10% Happiness)
+         - Talk to BMO (You will get a hint of where the Demon King will be summon)
+            - The hint will be given in the form of riddle. Make sure to remember what you did during the game.
+
 
    4.2 Ice Kingdom:
          - Fighting Ice Golem (+3% Experience, -10% Hunger, +10 coins)
@@ -47,14 +52,22 @@ Homepage:
    4.3 Bubble Palace:
          - Working (+20 coins, +3% Experience, -10% Happiness)
          - Research (+30 coins, +20% Intelligence, -5% Energy)
-         - Helping Royals (+100 coins, Decrease all stats 10%)
+         - Helping Royals (+100 coins, Decrease all stats 20%)
+         - Tavern (-10 coins, +10% Happiness, +5% Hunger)
 
    4.4 Bat Cave:
          - Dungeons (+5 coins, +20% Experience, +5% Happiness, -20% Energy, -20% Hunger)
          - Stargazing (+3% Energy)
          - Have a meal (+3% Hunger, -5 coins)
 
-   4.5 Fire Kingdom
+   4.5 Fire Empire (Happiness must be 100%):
+         - Buying Potion (It will make your stats to the max except Intelligence and Strength, -100 coins)
+         - Magic Orb (Intelligence must be 100%, -100 Coins)
+         - Consult to Wiseman (You will get a hint of how to defeat the demon king)
+               - 100% Hunger, 100% Energy, 70% or more Intelligence, 80% Experience, 100% Happiness, magic orb.
+               
+6. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20%.
    
+7. Play with our game sincerely. Thanks
    
          
