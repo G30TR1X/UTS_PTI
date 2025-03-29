@@ -1,7 +1,7 @@
 ADVENTURE TIME: JOURNEY OF HEROES!!
 
 Group member:
-Jesseleyn Vania Angel
+Jesselyn Vania Angelie
 Gavriel Donovan
 Kiara Allysia Putri Juntoro
 Vieny Evelyn
