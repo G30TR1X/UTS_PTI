@@ -31,7 +31,7 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
    
    1.6 There are no character that will spawn Fire Empire. You can visit it when your stats meet specific criteria
 
-2. There are some stats that is corrrelated in this game. All stats start with 50% at the starts. It will decrease slowly as the time in the game goes by. Don't let this stats become zero as you will face some consequences.
+2. There are some stats that is corrrelated in this game. All stats start with 50 at the starts. It will decrease slowly as the time in the game goes by. Don't let this stats become zero as you will face some consequences.
    
    2.1 Experience
    
@@ -51,41 +51,41 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
    
    4.1 Treehouse:
    
-         - Gardening (+5% Happiness, -5% energy)
-         - Rest (+10% Energy, -10% Hunger)
-         - Reading book (+5% Experience, -10% Happiness)
-         - Cooking (+5% Hunger, -3 money)
+         - Gardening (+5 Happiness, -5 energy)
+         - Rest (+10 Energy, -10 Hunger)
+         - Reading book (+5 Experience, -10 Happiness)
+         - Cooking (+5 Hunger, -3 money)
          - Talk to BMO (You will get a hint of where the Demon King will be summon)
                - The hint will be given in the form of riddle. Make sure to remember what you did during the game.
 
 
    4.2 Ice Kingdom:
    
-         - Fighting Ice Golem (+3% Experience, -10% Hunger, +10 coins)
-         - Playing snow (+10% happiness, -5% Energy)
-         - Meditation (All stats increased 1%)
+         - Fighting Ice Golem (+3 Experience, -10 Hunger, +10 coins)
+         - Playing snow (+10 happiness, -5 Energy)
+         - Meditation (All stats increased 1)
 
    4.3 Bubble Palace:
    
-         - Working (+20 coins, +3% Experience, -10% Happiness)
-         - Research (+30 coins, +5% Experience, -5% Energy)
-         - Helping Royals (+100 coins, Decrease all stats 20%)
-         - Tavern (-10 coins, +10% Happiness, +5% Hunger)
+         - Working (+20 coins, +3 Experience, -10 Happiness)
+         - Research (+30 coins, +5 Experience, -5 Energy)
+         - Helping Royals (+100 coins, Decrease all stats 20)
+         - Tavern (-10 coins, +10 Happiness, +5 Hunger)
 
    4.4 Bat Cave:
    
-         - Dungeons (+5 coins, +20% Experience, +5% Happiness, -20% Energy, -20% Hunger)
-         - Stargazing (+3% Energy)
-         - Have a meal (+3% Hunger, -5 coins)
+         - Dungeons (+5 coins, +20 Experience, +5 Happiness, -20 Energy, -20 Hunger)
+         - Stargazing (+3 Energy)
+         - Have a meal (+3 Hunger, -5 coins)
 
-   4.5 Fire Empire (Happiness must be 100%):
+   4.5 Fire Empire (Happiness must be 100):
    
          - Buying Potion (It will make your stats to the max except Experience, -100 coins)
-         - Magic Orb (Experience must be 100%, -100 Coins)
+         - Magic Orb (Experience must be 100, -100 Coins)
          - Consult to Wiseman (You will get a hint of how to defeat the demon king)
-               100% Hunger, 100% Energy, 80% or more Experience, 100% Happiness, magic orb.
+               100 Hunger, 100 Energy, 80 or more Experience, 100 Happiness, magic orb.
                
-6. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20%.
+6. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20.
    
 7. Play with our game sincerely. Thanks
    
