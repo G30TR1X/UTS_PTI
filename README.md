@@ -56,8 +56,7 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
          - Reading book (+5 Experience, -10 Happiness)
          - Cooking (+5 Hunger, -3 money)
          - Talk to BMO (You will get a hint of where the Demon King will be summon)
-               - The hint will be given in the form of riddle. Make sure to remember what you did during the game.
-
+               - 
 
    4.2 Ice Kingdom:
    
@@ -84,6 +83,10 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
          - Magic Orb (Experience must be 100, -100 Coins)
          - Consult to Wiseman (You will get a hint of how to defeat the demon king)
                100 Hunger, 100 Energy, 80 or more Experience, 100 Happiness, magic orb.
+               After, you have fulfil the stats, go back to wiseman you will be given hint where to defeat the demon king.
+                  You will need to answer only one riddle to know the tower of the demon king. You will be given 3 chances to answer correctly. If you are wrong, then your stats will be reduce -20 as a result. If you are correct, then the demon king tower will be shown in the map.
+               
+               
                
 6. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20.
    
