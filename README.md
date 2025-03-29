@@ -1,9 +1,9 @@
 ADVENTURE TIME: JOURNEY OF HEROES!!
 
 Group member:
-Jesselyn Vania Angelie
-Gavriel Donovan
-Kiara Allysia Putri Juntoro
+Jesselyn Vania Angelie,
+Gavriel Donovan,
+Kiara Allysia Putri Juntoro,
 Vieny Evelyn
 
 Welcome to our game! Adeventure Time: Journey of Heroes is a 2d pixel based adventure game where player can start their own adventure and quest such as fighting monster, hanging out with friends, and exploring the world. Your mission is to obtain the Magic Crystal to fight the Demon King and restore peace to the land.
@@ -33,19 +33,17 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
 
 2. There are some stats that is corrrelated in this game. All stats start with 50% at the starts. It will decrease slowly as the time in the game goes by. Don't let this stats become zero as you will face some consequences.
    
-   2.1 Intelligence
+   2.1 Experience
    
-   2.2 Experience
+   2.2 Happiness
    
-   2.3 Happiness
+   2.3 Hunger
    
-   2.4 Hunger
-   
-   2.5 Energy
+   2.4 Energy
    
    There's money also in the game and it plays an important roles. If you are dead before defeating the demon king, you can revive your character using money. So spend it wisely.
    
-3. The game will start with the explanation of the quest. The Demon King has created chaos all around the OOO. You are chosen as the hero to defeat it. To defeat it you need to obtain the magic crystal and to do that you have to do several quest and task. Your first task will be meeting the wiseman in the Fire Empire.
+3. The game will start with the explanation of the quest. The Demon King has created chaos all around the OOO. You are chosen as the hero to defeat it. To defeat it you need to obtain the magic orb and to do that you have to do several quest and task. Your first task will be meeting the wiseman in the Fire Empire.
    
    3.1 Beware that if these conditions aren't met there will be consequences.
    
@@ -54,8 +52,8 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
    4.1 Treehouse:
    
          - Gardening (+5% Happiness, -5% energy)
-         - Rest (+10% energy, -10% Hunger)
-         - Reading book (+5% Intelligence, -10% Happiness)
+         - Rest (+10% Energy, -10% Hunger)
+         - Reading book (+5% Experience, -10% Happiness)
          - Cooking (+5% Hunger, -3 money)
          - Talk to BMO (You will get a hint of where the Demon King will be summon)
                - The hint will be given in the form of riddle. Make sure to remember what you did during the game.
@@ -70,7 +68,7 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
    4.3 Bubble Palace:
    
          - Working (+20 coins, +3% Experience, -10% Happiness)
-         - Research (+30 coins, +20% Intelligence, -5% Energy)
+         - Research (+30 coins, +5% Experience, -5% Energy)
          - Helping Royals (+100 coins, Decrease all stats 20%)
          - Tavern (-10 coins, +10% Happiness, +5% Hunger)
 
@@ -82,10 +80,10 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
 
    4.5 Fire Empire (Happiness must be 100%):
    
-         - Buying Potion (It will make your stats to the max except Intelligence and Strength, -100 coins)
-         - Magic Orb (Intelligence must be 100%, -100 Coins)
+         - Buying Potion (It will make your stats to the max except Experience, -100 coins)
+         - Magic Orb (Experience must be 100%, -100 Coins)
          - Consult to Wiseman (You will get a hint of how to defeat the demon king)
-               - 100% Hunger, 100% Energy, 70% or more Intelligence, 80% Experience, 100% Happiness, magic orb.
+               100% Hunger, 100% Energy, 80% or more Experience, 100% Happiness, magic orb.
                
 6. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20%.
    
