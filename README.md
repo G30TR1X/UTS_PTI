@@ -56,6 +56,7 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
          - Gardening (+5% Happiness, -5% energy)
          - Rest (+10% energy, -10% Hunger)
          - Reading book (+5% Intelligence, -10% Happiness)
+         - Cooking (+5% Hunger, -3 money)
          - Talk to BMO (You will get a hint of where the Demon King will be summon)
                - The hint will be given in the form of riddle. Make sure to remember what you did during the game.
 
@@ -86,8 +87,8 @@ You can move by pressing WASD, ARROWS, or clicking ARROWS on the screen.
          - Consult to Wiseman (You will get a hint of how to defeat the demon king)
                - 100% Hunger, 100% Energy, 70% or more Intelligence, 80% Experience, 100% Happiness, magic orb.
                
-5. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20%.
+6. If one of your stat become 0, you will die. But if you die before the battle, you can revive using 200 coins. If you died during the battle with the Demon King, you will be punish and restart again from the beginning with all stats -20%.
    
-6. Play with our game sincerely. Thanks
+7. Play with our game sincerely. Thanks
    
          
